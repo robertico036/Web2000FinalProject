@@ -1,0 +1,57 @@
+#log {
+	font-family: 'Akronim', cursive;
+}
+
+body {
+	background: url(img/cerebro-notas-musicales.jpg) no-repeat;
+	background-size: cover;
+}
+
+h1, p {
+	color: #5803f4;
+	margin: 20px;
+	font-family: 'Baloo Bhai', cursive;
+}
+h1 {
+	margin-top: 10vh;
+}
+#post {
+	margin-bottom: 60px;
+}
+
+.navbar{ background:#F97300;}
+.nav-link , .navbar-brand{ color: #f4f4f4; cursor: pointer;}
+.nav-link{ margin-right: 1em !important;}
+.nav-link:hover{ background: #f4f4f4; color: #f97300; }
+.navbar-collapse{ justify-content: flex-end;}
+.navbar-toggler{  background:#fff !important;}
+.navbar-collapse{
+ justify-content: flex-end;
+}
+
+.blog{
+ margin: 4em 0;
+ position: relative; 
+}
+.blog h1{
+ color:#F97300;
+ margin: 2em; 
+}
+.blog .card{
+ box-shadow: 0 0 20px #ccc;
+}
+/*.blog .card img{
+ width: 100%;
+ height: 12em;
+}*/
+.blog .card-title{
+ color:#F97300;
+  
+}
+.blog .card-body{
+ padding: 1em;
+}
+
+.navbar-brand {
+    font-family: 'Akronim', cursive;
+}
